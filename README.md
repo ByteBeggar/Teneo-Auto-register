@@ -15,7 +15,7 @@ Teneo Account Creator is a streamlined tool to automate Teneo account registrati
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ByteBeggar/Teneo-Auto-register.git
-   cd teneo-account-creator
+   cd Teneo-Auto-register
    npm install
 
 
