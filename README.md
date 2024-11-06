@@ -33,7 +33,8 @@ Teneo Account Creator is a streamlined tool to automate Teneo account registrati
 
 ### ⚠️Note ###
 
-This script is intended for testing purposes only. Using it for automated registration may violate Teneo’s Terms of Service and could lead to account bans.
+This script is intended for testing purposes only. Using it for automated registration
+may violate Teneo’s Terms of Service and could lead to account bans.
 
 
 
